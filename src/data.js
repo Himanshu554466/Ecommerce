@@ -47,7 +47,7 @@ export const sliderItems = [
     },
     {
       id:2,
-      img:"https://cdn.shopify.com/s/files/1/0101/4832/products/Angela_Natural_Tee.png?v=1606780388",
+      img:"https://i5.walmartimages.com/asr/6bab1ee2-f0ba-44e3-8408-80e5a0c5b4bd_1.e117024f177d0de7563cba5431bb9d74.jpeg",
     },
     {
       id:3,
@@ -55,7 +55,7 @@ export const sliderItems = [
     },
     {
       id:4,
-      img:"https://www.burdastyle.com/pub/media/catalog/product/cache/7bd3727382ce0a860b68816435d76e26/107/BUS-PAT-BURTE-1320516/1170x1470_BS_2016_05_132_front.png",
+      img:"https://static.nike.com/a/images/t_PDP_1280_v1/f_auto/f19025e7-348d-416f-b817-dfa332d3fc71/sportswear-tech-fleece-hoodie-Rhmk1c.jpg",
     },
     {
       id:5,
